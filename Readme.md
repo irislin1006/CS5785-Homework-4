@@ -4,6 +4,8 @@
 This repo is modified from https://github.com/karpathy/convnetjs .
 
 ## Usage
+
+Make sure you are using python3.
 ```
 python -m http.server
 ```
